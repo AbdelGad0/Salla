@@ -1,0 +1,21 @@
+{
+  "name": "salla-mobiles-theme",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Twilight theme demo - mobile store (ar/en)",
+  "scripts": {
+    "preview": "salla theme preview",
+    "build": "webpack --mode production"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@salla.sa/cli": "^1.0.0",
+    "tailwindcss": "^3.4.1",
+    "postcss": "^8.4.33",
+    "autoprefixer": "^10.4.16",
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4",
+    "css-loader": "^6.8.1",
+    "postcss-loader": "^7.3.3"
+  }
+}

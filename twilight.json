@@ -1,0 +1,59 @@
+{
+  "name": "salla-mobiles",
+  "title": "متجر موبايلات | Salla Mobiles",
+  "description": "ثيم Twilight عربي/إنجليزي لبيع الموبايلات — مستوحى من صفحة salla.com/digital-sector",
+  "version": "1.0.0",
+  "author": "Salla Partner Demo",
+  "support_email": "support@example.com",
+  "locales": ["ar", "en"],
+  "features": [
+    "component-products-slider",
+    "component-testimonials",
+    "component-fixed-banner",
+    "component-store-features"
+  ],
+  "components": [
+    {
+      "name": "hero",
+      "title": "قسم البطل (Hero)",
+      "icon": "sicon-image-carousel",
+      "path": "home.hero",
+      "fields": []
+    },
+    {
+      "name": "stats",
+      "title": "شريط الإحصائيات",
+      "icon": "sicon-star",
+      "path": "home.stats",
+      "fields": []
+    },
+    {
+      "name": "categories",
+      "title": "التصنيفات",
+      "icon": "sicon-grid",
+      "path": "home.categories",
+      "fields": []
+    },
+    {
+      "name": "featured-products",
+      "title": "المنتجات المميزة",
+      "icon": "sicon-shopping-bag",
+      "path": "home.featured-products",
+      "fields": []
+    },
+    {
+      "name": "features",
+      "title": "لماذا نحن",
+      "icon": "sicon-shield",
+      "path": "home.features",
+      "fields": []
+    },
+    {
+      "name": "faq",
+      "title": "الأسئلة الشائعة",
+      "icon": "sicon-help",
+      "path": "home.faq",
+      "fields": []
+    }
+  ]
+}

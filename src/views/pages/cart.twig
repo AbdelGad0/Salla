@@ -1,0 +1,11 @@
+{% extends 'layouts.master' %}
+{% block title %}السلة | موبايلاتي{% endblock %}
+{% block content %}
+<section class="max-w-4xl mx-auto px-4 py-12">
+  <h1 class="text-2xl font-extrabold mb-6">السلة</h1>
+  <div id="cart-items" class="flex flex-col gap-3"></div>
+  <div class="flex justify-between font-extrabold mt-6 text-lg">
+    <span>الإجمالي</span><span id="cart-total" class="text-green-700">0 ر.س</span>
+  </div>
+</section>
+{% endblock %}

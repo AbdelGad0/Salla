@@ -1,0 +1,72 @@
+{
+  "header": {
+    "home": "Home",
+    "products": "Products",
+    "categories": "Categories",
+    "faq": "FAQ",
+    "cart": "Cart",
+    "lang_toggle": "عربي"
+  },
+  "hero": {
+    "badge": "Certified mobile store",
+    "title": "The easiest way to buy the latest phones",
+    "subtitle": "iPhone, Samsung and Pixel with 2-year warranty, 0% installments and fast doorstep delivery.",
+    "cta_shop": "Shop now",
+    "cta_categories": "Browse categories"
+  },
+  "stats": {
+    "products": "Genuine products",
+    "customers": "Happy customers",
+    "brands": "Brands",
+    "rating": "Customer rating"
+  },
+  "categories": {
+    "title": "Shop by category",
+    "subtitle": "Phones, accessories, smartwatches — everything in one place",
+    "phones": "Smartphones",
+    "accessories": "Accessories",
+    "watches": "Smartwatches",
+    "audio": "Audio"
+  },
+  "products": {
+    "title": "Best sellers",
+    "subtitle": "Customer favorites — 2-year warranty and free 14-day returns",
+    "add": "Add to cart",
+    "sar": "SAR"
+  },
+  "features": {
+    "title": "Why buy from us?",
+    "warranty_t": "2-year warranty",
+    "warranty_d": "Certified warranty with fast service.",
+    "shipping_t": "Fast delivery",
+    "shipping_d": "24-48h shipping to all cities.",
+    "payment_t": "Secure payment",
+    "payment_d": "Mada, Apple Pay, Tabby & Tamara installments.",
+    "return_t": "Free returns",
+    "return_d": "Free replacement within 14 days."
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "q1": "Are devices original with warranty?",
+    "a1": "Yes, 100% original with 2-year certified warranty.",
+    "q2": "How long is delivery?",
+    "a2": "24-48 hours locally, 2-5 days internationally.",
+    "q3": "Is installment available?",
+    "a3": "Yes, 4 payments with 0% interest via Tabby/Tamara.",
+    "q4": "What is the return policy?",
+    "a4": "Free returns within 14 days in original condition.",
+    "q5": "Which payment methods?",
+    "a5": "Mada, Visa, Mastercard, Apple Pay, bank transfer."
+  },
+  "cart": {
+    "title": "Shopping cart",
+    "empty": "Your cart is empty — discover the latest phones",
+    "checkout": "Checkout",
+    "total": "Total",
+    "added": "Added to cart"
+  },
+  "footer": {
+    "about": "Your destination for the latest original phones and accessories.",
+    "rights": "All rights reserved"
+  }
+}
